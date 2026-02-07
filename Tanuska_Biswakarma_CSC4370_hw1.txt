@@ -1,0 +1,4 @@
+Name: Tanuska Biswakarma
+Live URL: https://codd.cs.gsu.edu/~tbiswakarma1/wp/hw/hw1/index.html
+GitHub: 
+Notes: A personal homepage for myself. All requirements completed and validated.
